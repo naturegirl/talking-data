@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/bin/python3
 #
 # generates training data containing:
 # device_id, gender, age, group, phone_brand, device_model, [event_ids], [app_ids], [label_ids]

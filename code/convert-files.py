@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/bin/python3
 #
 # convert data into format more suitable for reading into dict
 # by merging rows by an index key.
