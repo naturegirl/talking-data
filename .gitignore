@@ -1,3 +1,5 @@
 .DS_Store
 # big file
 data/app_events.csv
+# ipython checkpoints
+notebooks/.ipynb_checkpoints/
